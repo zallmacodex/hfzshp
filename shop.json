@@ -1,0 +1,68 @@
+[
+    {
+        "name": "SC BOT WA MD",
+        "description": "SC BOT WA INI ADA BERBAGAI MACAM FITUR - FITUR DI DALAM SC INI TERDAPAT PERINTAH YANG BISA KAMU GUNAKAN UNTUK MENGHILANGKAN RASA GABUT",
+        "price": 15000,
+        "image": "md.jpg"
+    },
+    {
+        "name": "SC DDOS",
+        "description": "SC DDOS INI DAPAT KAMU GUNAKAN UNTUK MENYERANG WEBSITE SEHINGGA MEMBUAT WEBSITE EROR DAN TIDAK BISA DI AKSES LAGI",
+        "price": 50000,
+        "image": "scddos.jpg"
+    },
+    {
+        "name": "SC BOT BUG WA",
+        "description": "SC BUG WA INI TERDAPAT FITUR BUG WA KAMU BISA GUNAKAN FITUR BUG UNTUK BUG PENIPU, TEMEN, GURU, DLL",
+        "price": 50000,
+        "image": "bug.jpg"
+    },
+    {
+        "name": "SC TRACK IP",
+        "description": ".",
+        "price": 25000,
+        "image": "trackip.jpg"
+    },
+    {
+        "name": "ADMIN PANEL",
+        "description": "ADMIN PANEL ADALAH DIMANA KAMU DAPAT OPEN RESELLER PANEL DAN BUAT AKUN PANEL SEPUASNYA",
+        "price": 20000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "RESELLER PANEL",
+        "description": "RESELLER PANEL DIMANA KAMU DAPAT MEMBUAT PANEL SEPUASNYA DAN KAMU DAPAT MENJUAL PANEL TERSEBUT",
+        "price": 15000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "PANEL BOT PTERODACTYL 1GB PUBLIC",
+        "description": "PANEL PTERODACTYL JIKA KAMU MEMBELI PANEL INI KAMU DAPAT RUN SC BOT WA",
+        "price": 1000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "PANEL BOT PTERODACTYL 2GB PUBLIC",
+        "description": "PANEL PTERODACTYL JIKA KAMU MEMBELI PANEL INI KAMU DAPAT RUN SC BOT WA",
+        "price": 2000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "PANEL BOT PTERODACTYL 3GB PUBLIC",
+        "description": "PANEL PTERODACTYL JIKA KAMU MEMBELI PANEL INI KAMU DAPAT RUN SC BOT WA",
+        "price": 3000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "PANEL BOT PTERODACTYL 4GB PUBLIC",
+        "description": "PANEL PTERODACTYL JIKA KAMU MEMBELI PANEL INI KAMU DAPAT RUN SC BOT WA",
+        "price": 4000,
+        "image": "pterodactyl.png"
+    },
+    {
+        "name": "PANEL BOT PTERODACTYL 5GB PUBLIC",
+        "description": "PANEL PTERODACTYL JIKA KAMU MEMBELI PANEL INI KAMU DAPAT RUN SC BOT WA",
+        "price": 5000,
+        "image": "pterodactyl.png"
+    }
+]
